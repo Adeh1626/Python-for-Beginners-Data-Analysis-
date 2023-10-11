@@ -1,4 +1,4 @@
-# Python-for-Beginners-Data-Analysis-
+# Python-for-Beginners
 Snippets of code from the 'Python for Beginners'     
 
 ## Project Title:
