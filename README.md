@@ -12,25 +12,26 @@ The program is designed to allow users to select an API URL for retrieving rando
 
 ## How to Use:
 The program is user-friendly and no special knowledge is required to operate it.  
-1.	Launch the Program
+1. Launch the Program
 The Random Quote Reader starts with the user running the program by clicking the “Run” button.
 ![image](https://github.com/Adeh1626/Python-for-Beginners-Data-Analysis-/assets/146608847/eae38ed9-8766-4678-a014-a816a5353ad3)
 
 2.	Choose an Option
-Upon launching, a welcome message and 3 lists of API is displayed. The user is asked to make a choice from the lists displayed. 
+Upon launching, a welcome message and 3 lists of API is displayed. The user is asked to make a choice from the lists displayed.
 ![image](https://github.com/Adeh1626/Python-for-Beginners-Data-Analysis-/assets/146608847/4b7195bc-902d-4c8f-b71b-b72353d80d3a)
 
-3.	Retrieve Quotes
+4.	Retrieve Quotes
 When the user picks a number, the program gets data based on the user’s choice. If the number falls between 1 and 3, it will display quotes. 
 If the user enters 1, a message stating the type of quote is displayed. In this case, it is the Random Famous Quotes on Science and Technology.
 ![image](https://github.com/Adeh1626/Python-for-Beginners-Data-Analysis-/assets/146608847/62e3daf5-0d7d-461c-9059-a2fc3995fe48)
-For each item in the list of quotes, the program iterates and prints its content, author, and category. This process applies when a user enters 2 or 3. If a user enters 2, Random Quotes on History/Civil Rights are shown, and if 3, Random Quotes on Love/Happiness are displayed. 
+For each item in the list of quotes, the program iterates and prints its content, author, and category.
+This process applies when a user enters 2 or 3. If a user enters 2, Random Quotes on History/Civil Rights are shown, and if 3, Random Quotes on Love/Happiness are displayed. 
 
-4.	Incorrect Choice:
+6.	Incorrect Choice
 If the user selects a number outside 1 – 4, it will display an error message and let the user try again.
 ![image](https://github.com/Adeh1626/Python-for-Beginners-Data-Analysis-/assets/146608847/0d5907b1-43d8-4744-ab56-b40a8621c750)
  
-5.	Quit program:
+7.	Quit program
 To quit the program, the user selects 4 and it displays “Quit!”
 ![image](https://github.com/Adeh1626/Python-for-Beginners-Data-Analysis-/assets/146608847/7642d246-a0e7-44bf-9588-59c9708ce889)
 
